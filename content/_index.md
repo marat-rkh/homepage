@@ -1,4 +1,1 @@
----
----
-
-My name is Marat Khabibullin, welcome to my homepage!
+My name is Marat Khabibullin, welcome to my homepage! I blog about becoming a better software engineer every day through self learning 🚀

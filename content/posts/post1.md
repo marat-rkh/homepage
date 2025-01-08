@@ -1,6 +1,6 @@
 ---
-title: "Demo post"
-description: "Demo description"
+title: "First post"
+description: "WIP"
 ---
 
-Demo content
+WIP
