@@ -1,9 +1,9 @@
 ---
 title: "Advent of code 2024: thoughts"
-description: ""
+description: "TODO description"
 ---
 
-TODO screenshot of the tasks I solved.
+{{< image src="/posts/post1/aoc24-progress.png" alt="AoC24 progress" position="center" width="90%" height="90%" style="border: 0px;" >}}
 
 Last December was the first time I seriously participated in the AoC. I generally had a lot of fun solving the tasks, earning ⭐s, discussing solutions with my friend, and even peeking into `r/adventofcode` a bit when I was stuck.
 
