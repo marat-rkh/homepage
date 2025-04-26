@@ -1,5 +1,6 @@
 ---
 title: "Advent of Code 2024: Thoughts"
+date: 2025-02-01
 ---
 
 {{< image src="/posts/post1/aoc24-progress.png" alt="AoC24 progress" position="center" width="90%" height="90%" style="border: 0px;" >}}
