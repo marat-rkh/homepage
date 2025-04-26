@@ -1,5 +1,5 @@
 Most of my experience is in tooling for software engineers. I spent 7 years working on [GoLand, the IDE for Go](https://www.jetbrains.com/go/). 
-So I know a thing or two about compiler frontends, static analysis, and UX of code editors.
+So I know a thing or two about compiler frontends, static analysis, and the UX of code editors.
 
 - On development of static analysis tools for string-embedded languages ([paper](https://dl.acm.org/doi/10.1145/2855667.2855672), [talk in Russian](https://www.youtube.com/watch?v=hD4TKkTKaBE)).
 - [Intro to the Go programming language](https://www.youtube.com/watch?v=1V5GAYoaKRE) (lecture, in Russian).
