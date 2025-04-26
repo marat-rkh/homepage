@@ -1,1 +1,1 @@
-My name is Marat Khabibullin, welcome to my homepage! I blog about becoming a better software engineer every day through self learning 🚀
+My name is Marat Khabibullin, welcome to my journey through the world of software engineering 🚀
