@@ -9,7 +9,7 @@ So I know a thing or two about compiler frontends, static analysis, and UX of co
 During my (unfinished) PhD, I focused on dependently typed programming languages and theorem provers. 
 I also spent a year at the JetBrains Research HoTT group, working on tooling for the [Arend](https://arend-lang.github.io/) theorem prover. So I know a bit about formalized mathematics and can formalize a theorem or two.
 
-- [Programming Language Foundations in Arend](https://github.com/marat-rkh/plfa.github.io) - the PLFA book re-written in Arend (Part 1).
+- [Programming Language Foundations in Arend](https://github.com/marat-rkh/PLFArend) - the PLFA book re-written in Arend (Part 1). [Mentioned](https://plfa.github.io/#derived-works) on the original PLFA website.
 - [Formalization](https://github.com/marat-rkh/van-kampen) of Van Kampen's theorem in Arend (partial).
 - [Intro to the View pattern](https://habr.com/ru/companies/JetBrains-education/articles/277989/) for custom pattern-matching rules in dependently typed languages (blog post, in Russian).
 
