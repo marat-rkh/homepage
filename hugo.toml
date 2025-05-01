@@ -14,3 +14,7 @@ url = "/posts/"
 [params]
 contentTypeName = "posts"
 centerTheme = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
