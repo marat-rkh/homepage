@@ -3,7 +3,7 @@ title: "Advent of Code 2024: Thoughts"
 date: 2025-02-01
 ---
 
-{{< image src="/posts/post1/aoc24-progress.png" alt="AoC24 progress" position="center" width="90%" height="90%" style="border: 0px;" >}}
+{{< image src="/homepage/posts/post1/aoc24-progress.png" alt="AoC24 progress" position="center" width="90%" height="90%" style="border: 0px;" >}}
 
 Last December was the first time I seriously participated in AoC. I generally had a lot of fun solving the tasks, earning ⭐s, discussing solutions with my friend, and even peeking into `r/adventofcode` a bit when I was stuck. Probably, the main thing AoC reminded me about was "[be practical, Steve](https://www.youtube.com/watch?v=tSm6RjyNtEQ)".
 
